@@ -1,2 +1,2 @@
-# PrerpCourseHenry
-Test repository for Henry prep course 2nd module
+This is a test project to learn how to create and sync a repository from Github.com
+
